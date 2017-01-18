@@ -1,0 +1,8 @@
+{
+    "nas_url": "http://10.0.1.30:5000/webapi",
+    "nas_username": "admin",
+    "nas_password": "mysupersecretpass",
+    "nas_save_location": "sharedfoldername/somepath",
+    "url_username": "optional",
+    "url_password": "alsooptional"
+}

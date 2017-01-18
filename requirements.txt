@@ -1,0 +1,4 @@
+xmltodict==0.10.2
+synolopy==0.1.2
+click==6.7
+requests==2.12.4
